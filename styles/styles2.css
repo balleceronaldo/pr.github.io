@@ -1,0 +1,6 @@
+.menu-container .navbar {
+  display: none;
+}
+.menu-container:focus-within .navbar {
+  display: block;
+}

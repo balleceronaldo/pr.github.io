@@ -1,0 +1,27 @@
+
+This is a document for ALLOWED and UNACCEPTABLE variable names for JavaScript
+
+The following are rules for naming a variable:
+
+1. Start them with a letter, underscore _, or dollar sign $.
+
+2. After the first letter, you can use numbers, as well as letters, underscores, or dollar signs.
+
+3. Don’t use any of JavaScript’s reserved keywords.
+
+
+Three examples of VALID or ALLOWED variable names in JavaScript:
+
+redCard
+house4Rent
+YOU_CAN_EDIT
+
+
+Three examples of INVALID or UNACCEPTABLE variable names:
+
+always%
+2good2betrue
+function
+
+
+Variable names are case-sensitive, so myVar, MyVar, and myvar are all different variables. But generally, it’s a good practice to avoid naming variables so similarly.
